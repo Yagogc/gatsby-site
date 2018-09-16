@@ -3,13 +3,16 @@
   "description": "Gatsby site",
   "version": "0.1.0",
   "dependencies": {
+    "babel-plugin-styled-components": "^1.7.1",
     "gatsby": "next",
-    "gatsby-plugin-react-helmet": "next",
     "gatsby-plugin-manifest": "next",
     "gatsby-plugin-offline": "next",
+    "gatsby-plugin-react-helmet": "next",
+    "gatsby-plugin-styled-components": "^3.0.0",
     "react": "^16.4.2",
     "react-dom": "^16.4.2",
-    "react-helmet": "^5.2.0"
+    "react-helmet": "^5.2.0",
+    "styled-components": "^3.4.6"
   },
   "keywords": [
     "gatsby"
